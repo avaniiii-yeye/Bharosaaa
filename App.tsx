@@ -13,8 +13,6 @@ import { translations } from './utils/i18n';
 
 const TEMPLES: Temple[] = [
   { id: 'T1', name: 'Kashi Vishwanath', location: 'Varanasi', themeColor: '#F97316', secondaryColor: '#991B1B', icon: 'fa-om' },
-  { id: 'T2', name: 'Tirupati Balaji', location: 'Tirumala', themeColor: '#B45309', secondaryColor: '#78350F', icon: 'fa-dharmachakra' },
-  { id: 'T3', name: 'Somnath Temple', location: 'Gujarat', themeColor: '#0369A1', secondaryColor: '#075985', icon: 'fa-gopuram' },
 ];
 
 const App: React.FC = () => {
